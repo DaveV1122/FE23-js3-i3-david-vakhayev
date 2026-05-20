@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "productNumber": "WB-1001",
+    "name": "Nordic Desk Lamp",
+    "price": 59.99,
+    "description": "A dimmable LED desk lamp with a warm oak base, adjustable arm, and soft glare-free light for focused work.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.7,
+    "ratingVotes": 184,
+    "popularity": 94
+  },
+  {
+    "id": 2,
+    "productNumber": "WB-1002",
+    "name": "Everyday Canvas Backpack",
+    "price": 79.5,
+    "description": "A water-resistant canvas backpack with a padded laptop pocket, brass details, and enough room for daily essentials.",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.5,
+    "ratingVotes": 221,
+    "popularity": 88
+  },
+  {
+    "id": 3,
+    "productNumber": "WB-1003",
+    "name": "Ceramic Pour-Over Set",
+    "price": 42,
+    "description": "A handmade ceramic dripper and matching server for slow coffee mornings and balanced extraction.",
+    "image": "https://images.unsplash.com/photo-1442512595331-e89e73853f31?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.8,
+    "ratingVotes": 96,
+    "popularity": 81
+  },
+  {
+    "id": 4,
+    "productNumber": "WB-1004",
+    "name": "Linen Throw Blanket",
+    "price": 64.99,
+    "description": "A breathable washed-linen throw with a soft texture, finished edges, and a relaxed living-room look.",
+    "image": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.3,
+    "ratingVotes": 73,
+    "popularity": 70
+  },
+  {
+    "id": 5,
+    "productNumber": "WB-1005",
+    "name": "Wireless Noise-Canceling Headphones",
+    "price": 129.95,
+    "description": "Lightweight over-ear headphones with active noise canceling, 32-hour battery life, and quick USB-C charging.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.6,
+    "ratingVotes": 342,
+    "popularity": 99
+  },
+  {
+    "id": 6,
+    "productNumber": "WB-1006",
+    "name": "Minimal Wall Clock",
+    "price": 34.25,
+    "description": "A quiet sweep wall clock with a matte metal frame, clear markers, and a minimal design for kitchens or studios.",
+    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.2,
+    "ratingVotes": 58,
+    "popularity": 62
+  },
+  {
+    "id": 7,
+    "productNumber": "WB-1007",
+    "name": "Stainless Steel Water Bottle",
+    "price": 26.99,
+    "description": "A double-wall insulated bottle that keeps drinks cold or hot and fits easily in a bike cage or side pocket.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.9,
+    "ratingVotes": 410,
+    "popularity": 96
+  },
+  {
+    "id": 8,
+    "productNumber": "WB-1008",
+    "name": "Walnut Laptop Stand",
+    "price": 49,
+    "description": "A sturdy walnut laptop stand that lifts your screen to a comfortable height while keeping your desk organized.",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.4,
+    "ratingVotes": 137,
+    "popularity": 77
+  },
+  {
+    "id": 9,
+    "productNumber": "WB-1009",
+    "name": "Scented Soy Candle",
+    "price": 18.75,
+    "description": "A hand-poured soy candle with notes of cedar, bergamot, and black tea in a reusable amber glass jar.",
+    "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.1,
+    "ratingVotes": 64,
+    "popularity": 66
+  },
+  {
+    "id": 10,
+    "productNumber": "WB-1010",
+    "name": "Compact Bluetooth Speaker",
+    "price": 54.5,
+    "description": "A splash-proof portable speaker with rich bass, simple controls, and a fabric loop for travel or outdoor use.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=80",
+    "ratingAverage": 4.5,
+    "ratingVotes": 205,
+    "popularity": 85
+  }
+]
